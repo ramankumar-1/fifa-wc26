@@ -6,3 +6,6 @@
 2. Make sure Edge browser is installed. For other platforms (like Linux, MacOS) use another browser's driver.
 3. Run the Python code.<br>
 ```py fifa.py```
+
+Sample Output:<br>
+![Sample Output Screenshot](image.png "Sample Output")
